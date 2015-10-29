@@ -37,11 +37,7 @@
 
     </div>
     <div class="col-xs-7">
-        <img class="bezier" src="draw_bezier.php" alt="curve" />
         <div id="chartContainer" style="height: 300px; width: 100%;"></div>
-        <div class="label left">0</div>
-        <div class="label center">500 000</div>
-        <div class="label right">1 000 000</div>
     </div>
 </div>
 
