@@ -1,0 +1,33 @@
+body {
+    padding: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+img.bezier {
+    width: 100%;
+}
+
+.label {
+    color: #333;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.center {
+    width: 100px;
+    text-align: center;
+    margin: auto;
+    margin: 0;
+    padding: 0;
+}
